@@ -13,7 +13,7 @@ accountCity = "Hyderabad"
 /* Here below we're reassigning the value and worked in console as expected*/
 accountEmail = "us@us.com"
 accountPassword = "23232323"
-accountCity = "Bengaluru"
+accountCity = "Bengaluru" // here we're not defining the variable but JS know this variable and assign the value to memory.
 
 
 console.log(accountId);
