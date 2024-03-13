@@ -14,7 +14,7 @@ accountCity = "Hyderabad"
 accountEmail = "us@us.com"
 accountPassword = "23232323"
 accountCity = "Bengaluru" // here we're not defining the variable but JS know this variable and assign the value to memory.
-
+// aviod this way of using variable.
 
 console.log(accountId);
 console.table([accountId, accountEmail, accountPassword, accountCity])
