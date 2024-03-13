@@ -18,4 +18,4 @@ accountCity = "Bengaluru" // here we're not defining the variable but JS know th
 let accountState; // This is undefine variable type 
 
 console.log(accountId);
-console.table([accountId, accountEmail, accountPassword, accountCity])
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
